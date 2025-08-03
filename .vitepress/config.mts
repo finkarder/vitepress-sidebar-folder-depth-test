@@ -7,7 +7,7 @@ const vitePressSidebarOptions = {
   documentRootPath: '/docs',
   collapsed: false,
   capitalizeFirst: true,
-  excludeByFolderDepth: 3
+  excludeByFolderDepth: 99
 };
 
 const vitePressOptions = {
